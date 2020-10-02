@@ -2,11 +2,18 @@
 This is an basic example of GRPC.
 
 - [GRPC Server Example](#grpc-server-example)
+  - [Dependencies](#dependencies)
   - [starting the Example](#starting-the-example)
   - [protobuff](#protobuff)
 - [Author](#author)
 
+## Dependencies
+To install your dependencies you need to type the following command:
 
+```
+go mod download
+```
+> go version go1.15.2 windows/amd64
 ## starting the Example
 To run the GRPC Server just type in the following command:
 
