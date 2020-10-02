@@ -31,7 +31,6 @@ The following command shows you how to translate the `.proto` file into golang c
 
 ```
 /path/to/binary/protoc.exe --go_out=plugins=grpc:chat .\chat.proto
-
 ```
 
 # Author
